@@ -16,8 +16,13 @@ button {
 }
 
 .text-box {
-    width: 500px;
+    width: 600px;
     height: 150px;
     color: aliceblue;
     border: 1px solid black;
+}
+
+.flex {
+    display: flex;
+    gap: 5px;
 }
