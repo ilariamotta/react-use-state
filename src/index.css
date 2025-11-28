@@ -13,16 +13,24 @@ button {
     border: 1px solid black;
     padding: 10px 20px;
     margin: 10px 0;
+    border-radius: 20px;
 }
 
 .text-box {
     width: 600px;
     height: 150px;
-    color: aliceblue;
     border: 1px solid black;
+    border-radius: 20px;
+    padding: 30px 15px;
+    margin: 10px 0;
+    text-align: center;
 }
 
 .flex {
     display: flex;
     gap: 5px;
+}
+
+button.active {
+    background-color: yellow;
 }
