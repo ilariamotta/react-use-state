@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 90%;
+    margin: 20px auto;
+}
+
+button {
+    border: 1px solid black;
+    padding: 10px 20px;
+    margin: 10px 0;
+}
+
+.text-box {
+    width: 500px;
+    height: 150px;
+    color: aliceblue;
+    border: 1px solid black;
+}
